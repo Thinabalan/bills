@@ -1,1 +1,7 @@
 Hi.. :)
+git status - TO CHECK THE STATUS
+
+//TO ADD FILE IN GIT FROM VS TO GITHUB
+git add filename
+git commit -m "filename file added"
+git push origin main
