@@ -8,3 +8,10 @@ git push origin main
 
 //TO ADD/UPDATE FILE FROM GIT TO VS
 git pull
+
+git add . - TO ADD ALL FILES
+
+git branch - TO SEE THE BRANCH NAME
+
+git branch -M branchname - TO CHANGE BRANCH NAME
+
