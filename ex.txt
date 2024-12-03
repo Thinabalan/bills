@@ -1,4 +1,7 @@
 Hi.. :)
+
+git clone link - TO COPY FROM GIT
+
 git status - TO CHECK THE STATUS
 
 //TO ADD/UPDATE FILE IN GIT FROM VS TO GITHUB
@@ -6,12 +9,14 @@ git add filename
 git commit -m "filename file added"
 git push origin main
 
-//TO ADD/UPDATE FILE FROM GIT TO VS
-git pull
+git pull - TO ADD/UPDATE FILE FROM GIT TO VS
 
 git add . - TO ADD ALL FILES
 
 git branch - TO SEE THE BRANCH NAME
+git branch -a - TO SEE ALL BRANCHES NAME
+git branch branchname - TO ADD BRANCH 
 
 git branch -M branchname - TO CHANGE BRANCH NAME
 
+git checkout branchname - TO CHANGE FROM ONE BRANCH TO ANOTHER
