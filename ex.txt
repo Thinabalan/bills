@@ -10,7 +10,7 @@ git commit -m "filename file added"
 git push origin main
 
 git pull - TO ADD/UPDATE FILE FROM GIT TO VS
-
+gti pull main branchname - TO UPDATE FILE BY BRANCHES
 git add . - TO ADD ALL FILES
 
 git branch - TO SEE THE BRANCH NAME
